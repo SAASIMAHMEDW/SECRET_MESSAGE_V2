@@ -112,9 +112,3 @@ while 1:
 	else:
 		print("\nWORNG PROMPT")
 		break
-
-	
-	
-
-
-
